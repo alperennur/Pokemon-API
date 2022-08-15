@@ -1,4 +1,8 @@
 <h1>Pokemon API</h1>
+<br>
+<img src="Screenshots/lottie.gif" width="200">
+<img src="Screenshots/home.gif" width="200">
+<br>
 <h2><b>- Fragment</b>
 <br>
 <b>- Navigation Component(NavGraph, BottomNav)</b>
@@ -25,4 +29,5 @@
 <img src="Screenshots/search.png" width="200">
 <br>
 <img src="Screenshots/lottie.gif" width="200">
+<img src="Screenshots/home.gif" width="200">
 
