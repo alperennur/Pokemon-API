@@ -13,8 +13,13 @@
 <br>
 <b>-SeachView</b></h2>
 <h3>Home Page</h3>
-![home](https://user-images.githubusercontent.com/70028981/184628767-d969c60a-bda0-42f5-b388-de1c28e52367.png)
+<img src="Screenshots/home.png" width="200">
 <br>
 <h3>Fav Page</h3>
-![fav](https://user-images.githubusercontent.com/70028981/184630091-63e9e020-91a8-4d7d-9c21-85999400208b.png)
+<img src="Screenshots/fav.png" width="200">
 <br>
+<h3>Details Page</h3>
+<img src="Screenshots/details.png" width="200">
+<br>
+<h3>Search Page</h3>
+<img src="Screenshots/search.png" width="200">
