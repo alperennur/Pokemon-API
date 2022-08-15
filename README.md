@@ -23,3 +23,5 @@
 <br>
 <h3>Search Page</h3>
 <img src="Screenshots/search.png" width="200">
+<br>
+![home](https://user-images.githubusercontent.com/70028981/184633385-cf1504d7-be59-4d84-8d7a-ac399da32958.gif)
