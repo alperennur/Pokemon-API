@@ -27,7 +27,4 @@
 <br>
 <h3>Search Page</h3>
 <img src="Screenshots/search.png" width="200">
-<br>
-<img src="Screenshots/lottie.gif" width="200">
-<img src="Screenshots/home.gif" width="200">
 
