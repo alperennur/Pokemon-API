@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106630153791",
+    "project_id": "pokemonapi-7af5d",
+    "storage_bucket": "pokemonapi-7af5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106630153791:android:8ba5627ace9b1b9f781a8a",
+        "android_client_info": {
+          "package_name": "com.alperennur.pokemonapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106630153791-lmclibp47aa73g023eh3q7t2bo36u20d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOuFZn87Hy3_yyLvgsWPXQLxDGHFltTPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106630153791-lmclibp47aa73g023eh3q7t2bo36u20d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
